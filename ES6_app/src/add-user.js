@@ -1,24 +1,26 @@
 function addUser(e){
     e.preventDefault();
 
-    const first_name = this.getElementById("#first_name").value;
-    const last_name = this.getElementById("#last_name").value;
-    const email = this.getElementById("#email").value;
+    const first_name = document.getElementById("name").value;
+    // console.log(first_name);
+    const last_name = document.getElementById("surname").value;
+    const email = document.getElementById("email").value;
 
-    const gender = this.querySelector(input[type='radio'][name='gender']:checked);
+    const gender = document.querySelector("input[type='radio'][name='gender']:checked").value;
 
-    const jobtitle = this.getElementById("#jobtitle").value;
-    const company = this.getElementById("#company").value;
-    const location = this.getElementById("#location").value;
-    const experience_years = this.getElementById("#experience_years").value;
-    const experience_months = this.getElementById("#experience_months").value;
-    const role = this.getElementById("#role").value;
+    const jobtitle = document.getElementById("jobtitle").value;
+    const company = document.getElementById("company").value;
+    const location = document.getElementById("location").value;
+    const experience_years = document.getElementById("experienceY").value;
+    const experience_months = document.getElementById("experienceM").value;
+    const role = document.getElementById("role").value;
 
 
+    console.log("adding a user");
 
-   console.log(first_name, last_name, email, gender, jobtitle, company, location, experience_years, experience_months, role);
-    this.reset(); // resets the form
+    console.log(first_name, last_name, email, gender, jobtitle, company, location, experience_years, experience_months, role);
+    document.querySelector(".add-user").reset(); // resets the form
 }
 
 
-addItems.addEventListener('submit', addItem);
+export default addUser;

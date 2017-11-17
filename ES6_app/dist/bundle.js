@@ -1105,6 +1105,37 @@ exports.uriFragmentInHTMLComment = exports.uriComponentInHTMLComment;
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
+function addUser(e) {
+    e.preventDefault();
+
+    var first_name = document.getElementById("name").value;
+    // console.log(first_name);
+    var last_name = document.getElementById("surname").value;
+    var email = document.getElementById("email").value;
+
+    var gender = document.querySelector("input[type='radio'][name='gender']:checked").value;
+
+    var jobtitle = document.getElementById("jobtitle").value;
+    var company = document.getElementById("company").value;
+    var location = document.getElementById("location").value;
+    var experience_years = document.getElementById("experienceY").value;
+    var experience_months = document.getElementById("experienceM").value;
+    var role = document.getElementById("role").value;
+
+    console.log("adding a user");
+
+    console.log(first_name, last_name, email, gender, jobtitle, company, location, experience_years, experience_months, role);
+    document.querySelector(".add-user").reset(); // resets the form
+}
+
+exports.default = addUser;
+
+},{}],3:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
 
 var _constants = require("./constants");
 
@@ -1131,7 +1162,7 @@ var API = {
 
 exports.default = API;
 
-},{"./constants":4}],3:[function(require,module,exports){
+},{"./constants":5}],4:[function(require,module,exports){
 "use strict";
 
 var _posts = require("./posts.js");
@@ -1142,13 +1173,21 @@ var _ui = require("./ui.js");
 
 var _ui2 = _interopRequireDefault(_ui);
 
+var _addUser = require("./add-user.js");
+
+var _addUser2 = _interopRequireDefault(_addUser);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 _posts2.default.findAll().then(_ui2.default.renderPosts).catch(function (error) {
   return console.log(error);
 });
 
-},{"./posts.js":5,"./ui.js":6}],4:[function(require,module,exports){
+var submitButton = document.querySelector("input[type=\"submit\"]");
+
+submitButton.addEventListener('click', _addUser2.default);
+
+},{"./add-user.js":2,"./posts.js":6,"./ui.js":7}],5:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -1158,7 +1197,7 @@ var BASE_URI = "http://localhost:3000";
 
 exports.BASE_URI = BASE_URI;
 
-},{}],5:[function(require,module,exports){
+},{}],6:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -1179,7 +1218,7 @@ var Post = {
 
 exports.default = Post;
 
-},{"./api.js":2}],6:[function(require,module,exports){
+},{"./api.js":3}],7:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -1234,4 +1273,4 @@ function articleTemplate(first_name, last_name, email, gender, Job_title, compan
 
 exports.default = ui;
 
-},{"xss-filters":1}]},{},[3]);
+},{"xss-filters":1}]},{},[4]);
