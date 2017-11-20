@@ -2,37 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b567df0f-ab13-466f-a8d7-631b03889e98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/vanilla-router.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/TODO.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/dist/vanilla-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/dist/vanilla-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/examples/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/test/hash.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/test/history.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/dist/umd/vanilla-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/dist/vanilla-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/views/add-user.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ES6_app/add-user.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/scripts-FINISHED.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ES6_app/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/dist/bundle.js" afterPath="$PROJECT_DIR$/ES6_app/dist/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/index.html" afterPath="$PROJECT_DIR$/ES6_app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/src/add-user.js" afterPath="$PROJECT_DIR$/ES6_app/src/add-user.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/src/app.js" afterPath="$PROJECT_DIR$/ES6_app/src/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
