@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b567df0f-ab13-466f-a8d7-631b03889e98" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/vanilla-router.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/TODO.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/dist/vanilla-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/dist/vanilla-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/test/hash.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-router/test/history.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/dist/umd/vanilla-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/dist/vanilla-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/node_modules/vanilla-ui-router/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6_app/views/add-user.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ES6_app/add-user.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ES6_app/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/dist/bundle.js" afterPath="$PROJECT_DIR$/ES6_app/dist/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/index.html" afterPath="$PROJECT_DIR$/ES6_app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/src/add-user.js" afterPath="$PROJECT_DIR$/ES6_app/src/add-user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ES6_app/src/app.js" afterPath="$PROJECT_DIR$/ES6_app/src/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +56,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-start.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js30days/16 - Mouse Move Shadow/index-start.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js30days/15 - LocalStorage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="545">
+              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="47" />
+              <folding>
+                <marker date="1510827178000" expanded="true" signature="3037:3208" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,6 +159,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ES6_app/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="33" />
     <option name="y" value="23" />
@@ -159,6 +194,12 @@
               <item name="ES2015" type="b2602c69:ProjectViewProjectNode" />
               <item name="ES2015" type="462c0819:PsiDirectoryNode" />
               <item name="js30days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ES2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES2015" type="462c0819:PsiDirectoryNode" />
+              <item name="js30days" type="462c0819:PsiDirectoryNode" />
+              <item name="15 - LocalStorage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ES2015" type="b2602c69:ProjectViewProjectNode" />
@@ -203,12 +244,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510656801542</updated>
       <workItem from="1510656802731" duration="6697000" />
-      <workItem from="1510741143063" duration="5177000" />
+      <workItem from="1510741143063" duration="8899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11874000" />
+    <option name="totallyTimeSpent" value="15596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="2463" height="1377" extended-state="0" />
@@ -219,7 +260,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -389,6 +430,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js30days/16 - Mouse Move Shadow/index-start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/forum_ES2015/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -397,11 +446,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js30days/16 - Mouse Move Shadow/index-start.html">
+    <entry file="file://$PROJECT_DIR$/js30days/15 - LocalStorage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="545">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="47" />
+          <folding>
+            <marker date="1510827178000" expanded="true" signature="3037:3208" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
