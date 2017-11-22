@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b567df0f-ab13-466f-a8d7-631b03889e98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/scripts-FINISHED.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js30days/19 - Webcam Fun/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b567df0f-ab13-466f-a8d7-631b03889e98" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -219,15 +212,16 @@
       <option name="presentableId" value="Default" />
       <updated>1510656801542</updated>
       <workItem from="1510656802731" duration="6697000" />
-      <workItem from="1510741143063" duration="8899000" />
+      <workItem from="1510741143063" duration="9247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15596000" />
+    <option name="totallyTimeSpent" value="15944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="23" width="2463" height="1377" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.251962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
